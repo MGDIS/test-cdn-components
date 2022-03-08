@@ -30,7 +30,7 @@
     "jest-cli": "^27.4.5",
     "puppeteer": "^10.0.0"
   },
-  "license": "BSD 3-Clause",
+  "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MGDIS/test-cdn-components.git"
@@ -38,5 +38,6 @@
   "bugs": {
     "url": "https://github.com/MGDIS/test-cdn-components/issues"
   },
-  "homepage": "https://github.com/MGDIS/test-cdn-components#readme"
+  "homepage": "https://github.com/MGDIS/test-cdn-components#readme",
+  "author": ""
 }
